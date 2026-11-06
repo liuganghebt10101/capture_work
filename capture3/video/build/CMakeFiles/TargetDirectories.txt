@@ -1,0 +1,3 @@
+/home/liu/桌面/homework/Seminar/capture3/video/build/CMakeFiles/cube_detect.dir
+/home/liu/桌面/homework/Seminar/capture3/video/build/CMakeFiles/edit_cache.dir
+/home/liu/桌面/homework/Seminar/capture3/video/build/CMakeFiles/rebuild_cache.dir
