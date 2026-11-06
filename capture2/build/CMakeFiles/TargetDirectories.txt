@@ -1,3 +1,0 @@
-/home/liu/桌面/homework/Seminar/capture2/build/CMakeFiles/apple_detector.dir
-/home/liu/桌面/homework/Seminar/capture2/build/CMakeFiles/edit_cache.dir
-/home/liu/桌面/homework/Seminar/capture2/build/CMakeFiles/rebuild_cache.dir
